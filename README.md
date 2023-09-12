@@ -1,2 +1,2 @@
 # calculadoraFeitaPorMim
- Calculadora simples feita por mim, sem Auxilio de Inteligência Artificial
+ Calculadora simples desenvolvida em JavaScript, HTML e CSS
